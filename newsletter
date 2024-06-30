@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IEEE LaunchPad Kerala Newsletter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .header {
+            background-color: #0073e6;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .header h1 {
+            margin: 0;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        .content h2 {
+            color: #0073e6;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background-color: #0073e6;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+            border-radius: 5px;
+            text-decoration: none;
+            margin: 20px 0;
+        }
+
+        .footer {
+            background-color: #0073e6;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        .footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>IEEE LaunchPad Kerala 🚀</h1>
+        </div>
+        <div class="content">
+            <h2>Welcome to IEEE LaunchPad Kerala!</h2>
+            <p>IEEE LaunchPad Kerala is an innovative platform dedicated to fostering creativity and technical expertise among students and professionals in Kerala. Our mission is to provide opportunities for skill development, networking, and collaboration through a series of exciting events and initiatives.</p>
+
+            <h2>Join Us and Get Involved!</h2>
+            <p>We invite you to be a part of our vibrant community. Whether you're a student, professional, or enthusiast, there's a place for you at IEEE LaunchPad Kerala. Participate in our events, contribute your ideas, and help us shape the future of technology.</p>
+            <a href="https://ieeelaunchpadkerala.org/join" class="cta-button">Join Us Now</a>
+
+            <h2>Latest Updates</h2>
+            <p>We are thrilled to share some of our recent milestones:</p>
+            <ul>
+                <li>Mock test will be conducted on july 3rd.</li>
+                <li>Aptitude test will be conducted on july 4th.</li>
+                <li>Mentors will be there to assist everyone.</li>
+            </ul>
+
+            <h2>Event Roadmap</h2>
+            <p>Here's a brief overview of our upcoming events:</p>
+            <ul>
+                <li><strong>June 15:</strong> Webinar on IEEE Launchpad</li>
+                <li><strong>July 3:</strong> Mock Test</li>
+                <li><strong>July 4:</strong> Aptitude Test</li>
+            </ul>
+            <p>Stay tuned for more updates and make sure to mark your calendars!</p>
+        </div>
+        <div class="footer">
+            <p>© 2024 IEEE LaunchPad Kerala. All rights reserved.</p>
+            <p>Follow us on <a href="https://twitter.com/IEEE_LaunchPad_Kerala" style="color: #fff;">Twitter</a> | <a href="https://www.facebook.com/IEEE_LaunchPad_Kerala" style="color: #fff;">Facebook</a> | <a href="https://www.linkedin.com/company/ieee-launchpad-kerala" style="color: #fff;">LinkedIn</a></p>
+        </div>
+    </div>
+</body>
+
+</html>
